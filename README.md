@@ -1,18 +1,18 @@
 
 <h1 align="center">Hi 👋, I'm vanaja</h1>
-<h3 align="center">A passionate front-end and python developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanaja-pudi&label=Profile%20views&color=0e75b6&style=flat" alt="vanaja-pudi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vanaja-pudi" alt="vanaja-pudi" /></a> </p>
 
-- 🔭 I’m currently working on **computer vision**
+- 🔭 I’m currently working on **Django**
 
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 I’m currently learning **Data structures and Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vanaja-pudi](https://github.com/vanaja-pudi)
 
-- 💬 Ask me about **python,web technologies**
+- 💬 Ask me about **python,DSA,web technologies**
 
 - 📫 How to reach me **pudisaivanaja@gmail.com**
 
@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/dev." target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev." height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/vanaja pudi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vanaja pudi" height="30" width="40" /></a>
 </p>
 
