@@ -6,10 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vanaja-pudi" alt="vanaja-pudi" /></a> </p>
 
-- 🔭 I’m currently working on **Django**
-
-- 🌱 I’m currently learning **Data structures and Algorithms**
-
 - 👨‍💻 All of my projects are available at [https://github.com/vanaja-pudi](https://github.com/vanaja-pudi)
 
 - 💬 Ask me about **python,DSA,web technologies**
